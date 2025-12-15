@@ -116,21 +116,4 @@ An interactive dashboard was built in **Power BI Desktop** to communicate insigh
 * **Power BI:** dashboarding & data visualization
 * **Environment:** Google Colab, BigQuery Sandbox
 
----
-
-## 📂 Repository Structure
-
-```
-customer-shopping-behavior-analysis/
-│
-├── README.md
-├── analysis.ipynb
-├── screenshots/
-│   ├── fig2_data_cleaning.png
-│   ├── fig4_sql_results.png
-│   └── fig7_powerbi_dashboard.png
-└── exports/
-    ├── q1_revenue_by_gender.csv
-    └── q7_customer_segments.csv
-```
 
